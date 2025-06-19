@@ -1,0 +1,7 @@
+{{ $homeStatementScript := resources.Get "js/home-statement-animations.js" }}
+{{ if $homeStatementScript }}
+  <script src="{{ $homeStatementScript.RelPermalink }}"></script>
+{{ else }}
+  {{/* Optional: Log a warning if the script isn't found during build */}}
+  {{ warnf "Homepage statement script not found at js/home-statement-animations.js" }}
+{{ end }}

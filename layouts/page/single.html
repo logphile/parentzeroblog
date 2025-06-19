@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <div class="flex flex-col about-page items-start {{ if .Params.showTableOfContents }} lg:flex-row {{ end }} gap-y-8">
+    <article class="w-full">
+      <header class="mb-8">
+        {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default true) }}
+          {{ partial "breadcrumbs.html" . }}
+        {{ end }}
+        <h1 class="page-main-title !leading-snug !text-5xl !font-extrabold">{{ .Title }}</h1>
+        {{/* Metadata (date, word count, reading time, author) is intentionally omitted here */}}
+      </header>
+      <section class="prose dark:prose-invert max-w-full">
+        {{ .Content }}
+      </section>
+      {{/* Article footer elements like tags, series, etc., are also omitted */}}
+      {{/* Example: {{ partial "article-footer.html" . }} */}}
+    </article>
+    {{ if .Params.showTableOfContents }}
+      <aside class="sticky top-20 order-first hidden basis-1/4 lg:block">
+        {{ partial "toc.html" . }}
+      </aside>
+    {{ end }}
+  </div>
+{{ end }}
