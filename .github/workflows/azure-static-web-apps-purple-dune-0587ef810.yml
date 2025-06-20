@@ -19,6 +19,9 @@ jobs:
         with:
           submodules: true
           lfs: false
+      
+      - name: Sys Update
+        run: sudo apt-get update
 
       - name: Install Hugo
         run: sudo apt-get install hugo
