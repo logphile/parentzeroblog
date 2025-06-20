@@ -4,7 +4,7 @@ summary: "If you have a difficult co-parent, you're in the right place. This is 
 description: "ParentZero offers hard-won insights and emotional clarity for those caught in the trenches of high-conflict co-parenting. No easy answers—just real ones."
 date: 2025-06-10
 draft: false
-tags: ["co-parenting", "custody", "family court", "parenting", "emotional survival"]
+tags: ["co-parenting", "custody", "family court", "parenting"]
 ---
 
 > _"A beginning is a very delicate time."_  
