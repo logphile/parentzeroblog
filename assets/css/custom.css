@@ -206,8 +206,7 @@ body main article.h-full.flex.flex-col.items-center.text-center { /* Added .h-fu
   justify-content: flex-end; /* Align icons to the right */
   gap: 1rem; /* Increased gap for larger icons */
   align-items: center;
-  padding-top: 0.75rem; /* Space below header rule/bottom */
-  
+  padding-top: 0.75rem; /* Space below header rule/bottom */  
 }
 
 .social-icons-header img {
@@ -389,8 +388,13 @@ main#main-content article > section.prose > div.min-w-0 { /* More specific selec
 /* Article Content Width - Increase by 25% */
 article .prose,
 .article-content,
-.prose {
-  max-width: 60rem !important; /* Increased from default ~40rem (65ch) to 50rem (25% increase) */  
+.prose {  
+  font-family: 'Grotesk', sans-serif !important;
+  font-size: 1.4rem !important;
+  line-height: 1.4 !important;
+  max-width: 800px !important;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /* Ensure article container also accommodates the wider content */
@@ -563,7 +567,7 @@ blockquote {
 
 /* Tighten spacing between callouts and paragraphs near the end of a post */
 .about-page p {
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.85rem !important;
 }
 
 .about-page p:last-of-type {
@@ -600,9 +604,6 @@ blockquote {
 
 .about-page p.callout {
   font-variant: small-caps;
-  font-size: 1.5rem;
-  letter-spacing: 0.04em;
-  margin: 2rem 0;
 }
 
 .about-page h1 {
@@ -613,14 +614,16 @@ blockquote {
   text-underline-offset: 0.75rem !important;
   text-decoration-thickness: 1px !important; /* Try 1px, 1.5px, etc. */
   text-decoration-color: #3A3A5C;
-  text-decoration-style: solid;
+  text-decoration-style: solid;  
 }
 
 .about-page p {
   font-family: 'Grotesk', sans-serif !important;
-  font-size: 1.25rem !important;
-  line-height: 1.6 !important;
-  max-width: 850px !important;
+  font-size: 1.3rem !important;
+  line-height: 1.4 !important;
+  max-width: 900px !important;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 hr {
