@@ -392,7 +392,7 @@ article .prose,
   font-family: 'Grotesk', sans-serif !important;
   font-size: 1.4rem !important;
   line-height: 1.4 !important;
-  max-width: 800px !important;
+  max-width: 900px !important;
   text-align: justify;
   text-justify: inter-word;
 }
@@ -714,4 +714,13 @@ a.nav-color-links-hover:hover {
   margin-left: -2rem !important;
 }
 
+.dropcap {
+  float: left;
+  font-size: 5em;
+  line-height: 0.55;  
+  padding-top: 0.2em;
+  padding-right: 0.1em;  
+  font-weight: bold;
+  color: var(--color-primary); /* optional, adapt to your theme */
+}
 
