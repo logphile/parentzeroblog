@@ -9,6 +9,7 @@ tags: ["co-parenting", "custody", "family court", "parenting", "emotional surviv
 
 > _"A beginning is a very delicate time."_  
 > — *Princess Irulan*, Dune
+<br>
 
 **If you have a difficult co-parent, you're in the right place.**
 
@@ -30,7 +31,7 @@ None of that gets accounted for in court. The system sees a **dispute**. What yo
 - The loss of trust.  
 - The loss of stability.  
 - The loss of time with your kid.  
-- And the worst of all? Watching your child cry for something you can’t give them—a home that still feels whole.
+- The pain of watching your child cry for something you can’t give them—a home that still feels whole.
 
 _I’ve been there. I’m still there._
 
@@ -45,7 +46,7 @@ _You're in a special kind of hell._
 
 ---
 
-There **is** a way through this.
+<p class="callout">There is a way through this.</p>
 
 Not around it.  
 **Through it.**
@@ -55,19 +56,17 @@ Not perfectly. Not neatly. But **honestly**.
 
 Every post is a breadcrumb.  
 Things that _clicked_ after years of walking in the dark.  
-Lessons that didn't come from books-but from wounds, silence, and staying when it was easier to run.
+Lessons that came from wounds, silence, and staying when it was easier to run.
 
 ---
 
-If any of this resonates with you…  
-**You’re not alone.**  
+<p data-aos="fade-up" data-aos-delay="100">If any of this resonates with you…</p>
+<p data-aos="fade-up" data-aos-delay="250"><strong>You’re not alone.</strong></p>
 
 ---
 
-_In code, Ø means null—empty, nothing._  
-**Here, it marks the turning point: when we stop reacting and start responding.**
+<p data-aos="fade-up" data-aos-delay="500"><em>In code, Ø means null—empty, nothing.</em></p>
+<p data-aos="fade-up" data-aos-delay="750"><strong>Here, it marks the turning point: when we stop reacting and start responding.</strong></p>
 
-
-<br>
 <br>
 <hr>

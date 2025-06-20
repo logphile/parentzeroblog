@@ -207,7 +207,7 @@ body main article.h-full.flex.flex-col.items-center.text-center { /* Added .h-fu
   gap: 1rem; /* Increased gap for larger icons */
   align-items: center;
   padding-top: 0.75rem; /* Space below header rule/bottom */
-  padding-bottom: 1rem; /* Space above content that follows */
+  
 }
 
 .social-icons-header img {
@@ -583,11 +583,112 @@ blockquote {
 }
 
 .about-page ul li {
-  margin-bottom: 0.35rem;      /* Tighter vertical spacing */
-  line-height: 1.2;
-  font-size: 22.4px;  
+  font-family: 'Grotesk', sans-serif !important;
+  font-size: 1.25rem !important;
+  line-height: 1.25 !important;
+  max-width: 800px !important;
 }
 
 .about-page ul li:last-of-type {
   margin-bottom: 0;            /* Removes final gap */
-} 
+}
+
+.about-page section {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.about-page p.callout {
+  font-variant: small-caps;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  margin: 2rem 0;
+}
+
+.about-page h1 {
+  font-family: 'Bitter', serif !important;
+  font-size: 3.5rem !important;  
+  letter-spacing: -0.015em !important;
+  text-decoration: underline !important;
+  text-underline-offset: 0.75rem !important;
+  text-decoration-thickness: 1px !important; /* Try 1px, 1.5px, etc. */
+  text-decoration-color: #3A3A5C;
+  text-decoration-style: solid;
+}
+
+.about-page p {
+  font-family: 'Grotesk', sans-serif !important;
+  font-size: 1.25rem !important;
+  line-height: 1.6 !important;
+  max-width: 850px !important;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #999;
+  margin: 2rem 0;
+  width: 40%;
+}
+
+hr::after {
+  content: "Ø";
+  display: block;
+  text-align: center;
+  color: #3A3A5C;
+  font-size: 1.2rem;
+  margin-top: -0.75rem;
+}
+
+blockquote {
+  font-family: 'Grotesk', sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.03em;
+  color: #222;
+  border-left: 2px solid #3A3A5C;
+  padding-left: 1rem;
+  margin: 2rem 0;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(10px);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.fade-in.visible {
+  opacity: 1;
+  transform: none;
+}
+
+.quote-divider {
+  position: relative;
+  border-top: 2px solid #333;
+  width: 60%;
+  margin: 2rem auto 2.5rem auto;
+}
+
+.quote-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff; /* assumes white background */
+  padding: 0 0.5rem;
+  font-family: 'Bitter', serif;
+  font-size: 1rem;
+  color: #3A3A5C;
+  font-style: italic;
+}
+
+/* Navigation menu item hover effect - similar to social icons */
+a.nav-color-links-hover {
+  display: inline-block; /* Ensures transform applies correctly */
+  transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out, color 0.2s ease-in-out; /* Added color for smooth transition */
+}
+
+a.nav-color-links-hover:hover {
+  opacity: 0.7;
+  transform: translateY(-3px);
+  /* The text color change on hover is already handled by .hover\:text-primary-600:hover */
+}
+
