@@ -598,8 +598,8 @@ blockquote {
 }
 
 .about-page section {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem;
+  margin-top: 3rem;
+  margin-bottom: 8rem;
 }
 
 .about-page p.callout {
@@ -623,7 +623,7 @@ blockquote {
   line-height: 1.4 !important;
   max-width: 900px !important;
   text-align: justify;
-  text-justify: inter-word;
+  text-justify: inter-word;  
 }
 
 hr {
@@ -649,6 +649,7 @@ blockquote {
   color: #222;
   border-left: 2px solid #3A3A5C;
   padding-left: 1rem;
+  margin-bottom: 4.5rem !important;  
   margin: 2rem 0;
 }
 
@@ -694,4 +695,23 @@ a.nav-color-links-hover:hover {
   transform: translateY(-3px);
   /* The text color change on hover is already handled by .hover\:text-primary-600:hover */
 }
+
+/* Style for the first blockquote on the About page: right-aligned with right border */
+.about-page blockquote:first-of-type {
+  border-left: none; /* Remove the original left border */
+  padding-left: 0rem; /* Remove original left padding */
+  border-right: 2px solid #3A3A5C; /* Add border to the right, using your custom purple */
+  padding-right: -2rem; /* Add padding to the right, mirroring original left padding */
+  text-align: right; /* Align the blockquote container's content to the right */
+  /* It will inherit font, weight, letter-spacing, color, and margin from the general blockquote style */
+  max-width: 900px !important;
+}
+
+/* Ensure paragraphs within this specific right-aligned blockquote are also right-aligned */
+/* This helps override any general 'text-align: justify' that might be on .prose or .about-page p */
+.about-page blockquote:first-of-type p {
+  text-align: right !important;
+  margin-left: -2rem !important;
+}
+
 
