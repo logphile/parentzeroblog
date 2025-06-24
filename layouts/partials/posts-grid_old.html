@@ -1,0 +1,55 @@
+{{/* Posts Grid Layout - Two columns on desktop, stacked on mobile */}}
+<section class="posts-grid-container mt-12 mb-8 px-4 mx-auto">
+  {{ $posts := where .Site.RegularPages "Type" "posts" }}
+  {{ $posts = $posts | first 6 }}
+  
+  {{ if $posts }}
+    <div class="posts-grid">
+      {{ range $posts }}
+        {{ $page := . }}
+        <article class="post-preview">
+          <div class="post-content">
+            <div class="post-text-column">
+              <h3 class="post-title">
+                <a href="{{ $page.RelPermalink }}" class="post-link">{{ $page.Title }}</a>
+              </h3>
+              <p class="post-excerpt">
+                {{ if $page.Params.summary }}
+                  {{ $page.Params.summary | truncate 150 }}
+                {{ else }}
+                  {{ $page.Summary | truncate 150 }}
+                {{ end }}
+              </p>
+              <time class="post-date" datetime="{{ $page.Date.Format "2006-01-02" }}">
+                {{ $page.Date.Format "Jan 2, 2006" }}
+              </time>
+              {{ if $page.Params.categories }}
+                <div class="post-categories">
+                  {{ range first 1 $page.Params.categories }}
+                    <span class="category-tag">{{ . }}</span>
+                  {{ end }}
+                </div>
+              {{ end }}
+            </div>
+            
+            <div class="post-image-column">
+              {{ with $page.Params.featuredImage }}
+                {{ $image := resources.Get . }}
+                {{ if not $image }}{{ $image = $page.Resources.GetMatch . }}{{ end }}
+                {{ if $image }}
+                  <a href="{{ $page.RelPermalink }}" aria-label="Read more about {{ $page.Title }}" class="post-thumbnail-link">
+                    <div class="post-thumbnail">
+                      <img src="{{ $image.RelPermalink }}" alt="Featured image for {{ $page.Title }}" loading="lazy">
+                    </div>
+                  </a>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+        </article>
+      {{ end }}
+    </div>
+  {{ else }}
+    <p class="text-center text-gray-500">No posts found.</p>
+  {{ end }}
+</section>
