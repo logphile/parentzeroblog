@@ -721,6 +721,6 @@ a.nav-color-links-hover:hover {
   padding-top: 0.2em;
   padding-right: 0.1em;  
   font-weight: bold;
-  color: var(--color-primary); /* optional, adapt to your theme */
+  color: #3A3A3A; /* optional, adapt to your theme */
 }
 
