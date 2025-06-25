@@ -11,8 +11,6 @@ authors:
   - Phil
 ---
 
-# Co-Parenting with a Chronic Projector: Understanding the Behavior and Protecting Your Child
-
 <p><span class="dropcap">C</span>o-parenting is already a high-stakes challenge. But when the other parent consistently blames you for things they’re actually doing themselves, you're not just navigating miscommunication—you're managing projection.
 
 This kind of dynamic isn’t just frustrating. It’s destabilizing. Especially when a child is caught in the middle.
