@@ -308,7 +308,8 @@ main#main-content article > section.prose > div.min-w-0 { /* More specific selec
 .post-title {
   font-family: 'Bitter', serif !important; /* Changed from Playfair Display to Bitter */
   font-weight: 900 !important; /* Changed from 700 to 900 for Black weight */
-  font-size: 2.5rem !important; 
+  font-size: 2.75rem !important; 
+  line-height: 55px !important;
   margin-bottom: 1rem;
   color: #3A3A3A;
   text-decoration: none;
