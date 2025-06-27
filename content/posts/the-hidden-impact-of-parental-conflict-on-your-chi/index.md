@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# The Hidden Impact of Parental Conflict on Your Child's Future: Effective Strategies for Healthy Relationships
+
 
 As parents, our first instinct is often to shield our children from every conceivable harm. We carefully select their toys, monitor their screen time, and vet the friends they hang out with. However, one area that frequently goes overlooked is the effect of parental conflict on a child's emotional and psychological development. In this post, we will explore how ongoing disputes between parents can shape a child's future, and we will provide effective strategies to foster a healthier family environment.
 
