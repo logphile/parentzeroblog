@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Fatherhood: Understanding the Legal System's Bias Against Dads
+
 
 Fatherhood is a journey filled with love, challenges, and, for many dads, a battle against biases ingrained in our legal system. In a society that often views mothers as the primary caregivers, many fathers find themselves fighting an uphill battle in custody disputes and parenting arrangements. This blog post will explore the intricacies of fatherhood in the legal landscape, shedding light on the assumptions that can disadvantage dads.
 
