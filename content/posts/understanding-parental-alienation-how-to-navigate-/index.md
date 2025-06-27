@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Understanding Parental Alienation: How to Navigate When Your Ex Uses Your Child as a Pawn
+
 
 Parental alienation is a complex and heartbreaking issue that affects many families, especially in contentious divorce or custody situations. It describes a scenario where one parent attempts to undermine the relationship between their child and the other parent. This manipulation can turn children into pawns, weaponized against the other parent, often leading to emotional distress for everyone involved. In this blog post, we will explore the signs of parental alienation, the psychological impacts on children, strategies for parents to cope, and possible legal steps to take when facing this distressing situation.
 
