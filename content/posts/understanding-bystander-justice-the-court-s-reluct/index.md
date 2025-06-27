@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Understanding Bystander Justice: The Court's Reluctance to Address Emotional Abuse
+
 
 In today's complex landscape of domestic abuse and mental health awareness, the role of emotional abuse often goes unrecognized. While physical abuse typically garners immediate attention, emotional abuse can leave profound scars, often invisible to the outside world. This raises a crucial question: why does the court system seem reluctant to intervene in cases of emotional abuse? In this article, we will delve into the concept of bystander justice, explore why the legal system often overlooks emotional abuse, and suggest pathways for change.
 
