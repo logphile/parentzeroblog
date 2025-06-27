@@ -12,7 +12,6 @@ authors:
   - Phil
 ---
 
-# Navigating Family Court: Understanding How Volume Trumps Victimhood  
 Navigating the family court system can feel like traversing a minefield. For many, the legal proceedings represent a battle for their rights, especially when it comes to custody, visitation, and other familial disputes. However, what many people fail to understand is that in family court, it’s often not about who is right; it’s about who can make the loudest case.  
 
 ## The Reality of Family Court  
