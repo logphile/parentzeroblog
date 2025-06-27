@@ -12,7 +12,6 @@ authors:
   - Phil
 ---
 
-# Navigating Co-Parenting: Turning Co-Survival into Co-Thriving
 
 Co-parenting can be one of the most challenging dynamics a separating couple faces. When the well-being of children is at stake, it’s easy for emotions to dictate the relationship between parents. Sometimes, this can shift from effective co-parenting to merely co-surviving. But it doesn’t have to be this way. In this blog post, we'll explore how you can transform a co-survival mindset into a thriving co-parenting experience.
 
