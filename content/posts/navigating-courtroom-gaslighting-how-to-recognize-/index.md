@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Courtroom Gaslighting: How to Recognize and Counter Manipulative Tactics  
+ 
 In the high-stakes world of legal battles, courtroom gaslighting has become an insidious weapon wielded by aggressive attorneys. It can leave the most confident individuals questioning their reality and feeling vulnerable. Today, we delve into understanding courtroom gaslighting, how to recognize it, and most importantly, how to counteract these manipulative tactics to reclaim your narrative.
 
 ---  
