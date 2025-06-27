@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Mastering Mind Games: Unveiling Manipulation Tactics in Family Court
+
 
 In family court, emotions run high, and conflicts can escalate quickly. Amidst the turmoil, manipulation often lurks beneath the surface, complicating the proceedings and influencing outcomes. Understanding these mind games is crucial for anyone involved in a family law case, whether you're a parent facing custody battles or an attorney representing clients. In this blog post, we will dive deep into the strategies manipulators use in family court and how you can protect yourself against them.
 
