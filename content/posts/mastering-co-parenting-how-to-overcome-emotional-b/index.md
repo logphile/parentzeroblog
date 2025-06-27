@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Mastering Co-Parenting: How to Overcome Emotional Blackmail for a Healthier Family Dynamic
+
 
 Co-parenting can be a complex journey, especially when emotional blackmail comes into play. Whether you’re dealing with an ex-partner who uses guilt, threats, or manipulation as a tactic, learning to navigate these emotional waters is essential for the well-being of not just you, but also your children. In this post, we’ll discuss how to recognize emotional blackmail in co-parenting situations, strategies to cope, and ways to foster a positive relationship with your co-parent despite the challenges. 
 
