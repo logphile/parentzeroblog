@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Toxic Co-Parenting: How to Stay Hopeful and Strong for Your Child
+
 
 Co-parenting can be a challenging journey, especially when the relationship with your ex-partner turns toxic. Parents everywhere are seeking ways to maintain a healthy and supportive environment for their children amidst conflicts, disagreements, and emotional turmoil. 
 
