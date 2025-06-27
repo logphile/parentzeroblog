@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# When the 'Best Interest of the Child' Is Just a Catchphrase: Unpacking the Real Impacts on Family Law
+
 
 When navigating the waters of family law, one phrase often echoes in courtrooms, media, and among families: the ‘best interest of the child.’ This term, initially designed to focus on a child's welfare in legal decisions, has evolved into a catchphrase that may not always serve its intended purpose. In this blog post, we’ll explore the significance of this phrase, its implications in real scenarios, and how it can sometimes become more rhetoric than reality.
 
