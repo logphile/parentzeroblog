@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating the Void: How to Manage an Unresponsive Co-Parent and Protect Your Peace
+
 
 Co-parenting can be a challenging journey, especially when one parent practices "ghosting"—disappearing without explanation or warning. This article delves into the emotional turmoil of dealing with an unresponsive co-parent and offers practical strategies to help you maintain your peace and ensure your child's well-being.
 
