@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Co-Parenting Challenges: How to Recognize and Address Passive-Aggression in Silent Abuse
+
 
 Co-parenting can often feel like walking a tightrope, especially when underlying issues such as passive-aggression come into play. Silent abuse manifests in subtle ways that can escalate conflict, harm the emotional well-being of all involved, and ultimately affect the children caught in the middle. Understanding and addressing passive-aggressive behaviors not only helps resolve tension but also fosters a healthier co-parenting dynamic.
 
