@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# The Hidden Emotional Toll of Always Being the 'Bigger Person'
+
 
 In today’s fast-paced world of social networks and instant communications, the idea of being the ‘bigger person’ has become a mantra. We often hear the phrase in the context of resolving conflicts, extending forgiveness, or letting go of grudges. While it implies maturity and altruism, have we ever paused to consider the emotional cost of this selfless behavior? 
 
