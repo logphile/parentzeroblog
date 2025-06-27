@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Mastering Your Peace: How to Navigate a High-Conflict Ex Without Losing Yourself
+
 
 Navigating a relationship with a high-conflict ex can be one of the most challenging experiences a person can face. Whether it was a romantic relationship or a partnership that turned sour, the emotional turmoil can linger long after the relationship has ended. This blog post will provide you with effective strategies to outmaneuver a high-conflict ex, ensuring you maintain your self-respect, peace, and mental wellness throughout the process.
 
