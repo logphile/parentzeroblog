@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# How to Effectively Move On When Your Ex Refuses to Let Go
+
 
 Navigating the end of a relationship can be one of the toughest challenges you face. But what happens when your ex isn't ready to move on, making it even harder for you to heal? In this blog post, we will explore practical strategies to help you effectively move on, even when your ex is holding on. 
 
