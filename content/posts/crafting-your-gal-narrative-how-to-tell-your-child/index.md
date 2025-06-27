@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Crafting Your GAL Narrative: How to Tell Your Child's Story Effectively
+
 
 In the realm of guardianship and child advocacy, the importance of a well-crafted General Appointed Lawyer (GAL) narrative cannot be understated. Every child has a unique story, and it’s our responsibility as advocates, parents, or guardians to articulate that story effectively, focusing on their best interests. This blog post is dedicated to guiding you through the process of building a compelling GAL narrative that prioritizes your child's needs above all.
 
