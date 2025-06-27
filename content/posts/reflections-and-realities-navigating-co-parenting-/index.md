@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Reflections and Realities: Navigating Co-Parenting with a Chronic Projector
+
 
 Co-parenting is seldom a walk in the park, but it can feel particularly complex when one partner resonates with the traits of a chronic projector. If you’ve ever found yourself arguing with a mirror—wrestling not only with your own emotions but also with the perpetual reflections of another person’s perceptions—you know how challenging this dynamic can be. This blog post is here to explore the intricacies of co-parenting with someone who epitomizes a chronic projector’s tendencies, providing illuminating insights and strategies to navigate the relationship smoothly.  
 
