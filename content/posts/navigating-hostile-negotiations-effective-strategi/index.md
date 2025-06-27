@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Hostile Negotiations: Effective Strategies for Dealing with an Uncompromising Parent
+
 
 Dealing with a parent who refuses to compromise can feel like a daunting challenge. Whether it’s related to your personal life decisions, career choices, or familial obligations, negotiations can quickly turn hostile. This blog post will offer practical strategies to help you navigate these intense discussions with confidence, aiming for a positive outcome that maintains relationships.
 
