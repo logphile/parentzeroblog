@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Unmasking the Narcissist: Essential Techniques to Identify Your Ex's Toxic Manipulations
+
 
 Understanding someone who exhibits narcissistic behavior can be a complex and sometimes painful process. If you have recently ended a relationship with a narcissist, recognizing their toxic traits is crucial for your healing and personal growth. This blog post will guide you through the basics, how to spot these behaviors in your ex, and how to protect yourself moving forward.
 
