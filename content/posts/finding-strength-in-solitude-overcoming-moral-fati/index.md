@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Finding Strength in Solitude: Overcoming Moral Fatigue in a Complex World
+
 
 In today’s fast-paced and often chaotic society, many individuals are feeling a strain that isn’t easily articulated. This strain is known as moral fatigue or ethical exhaustion — a condition that arises from endless exposure to moral dilemmas and the constant pressure to make ethical decisions. Whether you're a leader, a healthcare worker, or simply someone navigating the complexities of daily life, understanding and coping with this fatigue is essential for mental well-being. In this blog post, we will explore moral fatigue, its causes, and effective strategies for overcoming it, while finding strength in solitude.
 
