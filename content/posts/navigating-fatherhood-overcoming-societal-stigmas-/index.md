@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Fatherhood: Overcoming Societal Stigmas that Criminalize Dads
+
 
 Fatherhood is often romanticized in media, showcasing the joys of parenting through comical mishaps and heartfelt moments. However, many fathers face an unexpected societal challenge: feeling criminalized for simply doing their job as parents. This blog post delves into the stigma surrounding fatherhood, the systemic issues that contribute to these feelings, and how fathers can navigate this complex landscape. 
 
