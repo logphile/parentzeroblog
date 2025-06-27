@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Effective Strategies for Surviving Joint Custody with a Controlling Ex-Partner
+
 
 Navigating joint custody can be complex under the best of circumstances, but when your ex-partner exhibits controlling behavior, it can feel like a continuous uphill battle. Managing your own emotions while prioritizing your children’s needs becomes paramount in such situations. This comprehensive guide shares effective strategies to thrive in a joint custody arrangement with a controlling ex. 
 
