@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Emotional Manipulation: How to Empower Yourself When Your Ex Uses Your Child as Leverage  
+
 Breakups can be an emotional whirlwind, but when children are involved, the stakes are even higher. If you find yourself in a situation where your ex-partner is using your child as a pawn, it can feel overwhelming and isolating. This blog post will explore the signs of emotional manipulation, strategies to break free from this dynamic, and how to protect your child’s well-being while asserting your own.  
   
 ## Understanding Emotional Manipulation  
