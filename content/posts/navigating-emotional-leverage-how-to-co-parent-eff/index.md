@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Navigating Emotional Leverage: How to Co-Parent Effectively When Love is Used as a Weapon
+
 
 Co-parenting can be a challenging journey, especially when emotions run high. One of the most complex situations arises when your co-parent uses the love you share for your children as leverage in conflicts. Understanding how to navigate this emotional landscape can make a significant difference in your co-parenting relationship and, ultimately, your children's well-being. In this blog post, we’ll explore strategies to help you handle this delicate situation, empower your parenting approach, and foster a healthier environment for your kids.
 
