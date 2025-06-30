@@ -2,49 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ParentZero</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://parentzero.blog/tags/</link>
     <description>Recent content in Tags on ParentZero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2025 ParentZero. All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Jun 2025 23:51:46 +0000</lastBuildDate><atom:link href="https://parentzero.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Co-Parenting</title>
-      <link>http://localhost:1313/tags/co-parenting/</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <title>Child Wellbeing</title>
+      <link>https://parentzero.blog/tags/child-wellbeing/</link>
+      <pubDate>Fri, 27 Jun 2025 23:51:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/co-parenting/</guid>
+      <guid>https://parentzero.blog/tags/child-wellbeing/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Custody</title>
-      <link>http://localhost:1313/tags/custody/</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <title>Co-Parenting</title>
+      <link>https://parentzero.blog/tags/co-parenting/</link>
+      <pubDate>Fri, 27 Jun 2025 23:51:46 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/custody/</guid>
+      <guid>https://parentzero.blog/tags/co-parenting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Family Court</title>
-      <link>http://localhost:1313/tags/family-court/</link>
+      <link>https://parentzero.blog/tags/family-court/</link>
+      <pubDate>Fri, 27 Jun 2025 23:51:46 +0000</pubDate>
+      
+      <guid>https://parentzero.blog/tags/family-court/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Custody</title>
+      <link>https://parentzero.blog/tags/custody/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/family-court/</guid>
+      <guid>https://parentzero.blog/tags/custody/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Parenting</title>
-      <link>http://localhost:1313/tags/parenting/</link>
+      <link>https://parentzero.blog/tags/parenting/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/parenting/</guid>
+      <guid>https://parentzero.blog/tags/parenting/</guid>
       <description></description>
       
     </item>

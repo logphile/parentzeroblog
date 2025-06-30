@@ -1,0 +1,47 @@
+{{ $showRecent := .Site.Params.homepage.showRecent | default true }}
+{{ if $showRecent }}
+  {{ $recentItems := .Site.Params.homepage.showRecentItems | default 5 }}
+  {{ $showMoreLink := .Site.Params.homepage.showMoreLink | default true }}
+  {{ $showMoreLinkDest := .Site.Params.homepage.showMoreLinkDest | default "/posts" }}
+  {{ $cardView := .Site.Params.homepage.cardView | default false }}
+  {{ $cardViewScreenWidth := .Site.Params.homepage.cardViewScreenWidth | default false }}
+
+  {{ $mainSections := .Site.Params.mainSections | default (slice "posts") }}
+  {{ $pages := where site.RegularPages "Type" "in" $mainSections }}
+  {{ $pages = where $pages "Params.hidden" "ne" true }}
+  {{ $pages = where $pages "Params.external_link" "eq" nil }}
+
+  <div class="mb-12">
+    <h2 class="text-3xl font-extrabold">
+      {{ i18n "recent_articles" | default "Recent Articles" }}
+    </h2>
+    <div
+      class="
+        {{ if and ($cardView) ($cardViewScreenWidth) }}
+          grid-container
+        {{ end }}
+        mt-8
+      "
+    >
+      {{ range first $recentItems $pages }}
+        <div
+          class="
+            {{ if and ($cardView) ($cardViewScreenWidth) }}
+              article-link-wrapper
+            {{ end }}
+          "
+        >
+          {{ partial "article-link/simple.html" (dict "context" . "show_date" true) }}
+        </div>
+      {{ end }}
+    </div>
+    {{ if and $showMoreLink (gt (len $pages) $recentItems) }}
+      <div class="mt-8">
+        <a href="{{ $showMoreLinkDest | relLangURL }}" class="font-semibold">
+          {{ i18n "see_all_articles" | default "See all articles" }}
+          <span class="text-sm" aria-hidden="true">&rarr;</span>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}

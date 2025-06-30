@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.querySelectorAll(".article-card");e.forEach(e=>{e.addEventListener("click",()=>{const t=e.dataset.href,n=e.dataset.target;t&&(n==="_blank"?window.open(t,"_blank","noopener noreferrer"):window.location.href=t)})})})

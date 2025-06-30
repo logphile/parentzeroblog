@@ -71,3 +71,11 @@ title = "ParentZero"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     ]
+
+[article]
+  [article.wordCount]
+    one = "{{ .Count }} word"
+    other = "{{ .Count }} words"
+  [article.readingTime]
+    one = "{{ .Count }} minute"
+    other = "{{ .Count }} minutes"

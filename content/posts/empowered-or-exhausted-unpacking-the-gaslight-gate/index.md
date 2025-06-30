@@ -7,12 +7,13 @@ tags:
   - co-parenting
   - family court
   - child wellbeing
+showTableOfContents: true
 showauthor: true
 authors:
   - Phil
 ---
 
-# Empowered or Exhausted? Unpacking the 'Gaslight, Gatekeep, Mom-Boss' Mentality in Modern Motherhood
+
 
 Motherhood is a complex journey filled with joys, challenges, and cultural expectations. In recent years, a new phrase has emerged in discussions around the experience of being a mother — "Gaslight, Gatekeep, Mom-Boss." This phrase encapsulates the pressures and manipulative dynamics some mothers face from society and even within parenting communities. In this post, we will deeply explore the implications of this mentality, how it impacts mothers today, and what can be done to cultivate a healthier environment for all moms.
 

@@ -1,0 +1,24 @@
+<div class="flex flex-wrap text-base items-center mb-5 mt-2 text-slate-900 dark:text-slate-900 meta-deco">
+  {{ $icon := resources.Get "img/calendar.png" }}
+  {{ with $icon }}
+    <img src="{{ .RelPermalink }}" alt="Calendar icon" class="inline-block mr-2 h-5 w-5">
+  {{ end }}
+
+  <span class="font-bold mr-1">
+    <time datetime="{{ .Date | time.Format "2006-01-02T15:04:05-07:00" }}">
+      {{ .Date | time.Format ":date_long" }}
+    </time>
+  </span>
+
+  {{ if .Site.Params.article.showWordCount | default true }}
+  <span class="font-bold mr-1">
+    · {{ .WordCount }} words
+  </span>
+  {{ end }}
+
+  {{ if .Site.Params.article.showReadingTime | default true }}
+  <span class="font-bold">
+    · {{ .ReadingTime }} min read
+  </span>
+  {{ end }}
+</div>

@@ -12,7 +12,7 @@ authors:
   - Phil
 ---
 
-# Mastering Co-Parenting: Strategies to Overcome High-Conflict Situations
+
 
 Navigating the challenges of co-parenting can feel overwhelming, especially when dealing with a high-conflict ex-partner. With emotions often running high, communication can become strained and cooperative parenting seems nearly impossible. However, with a solid tactical playbook in hand, you can outsmart the ‘win-at-all-costs’ mindset and create a more harmonious environment for your children. This comprehensive guide is designed to provide you with practical strategies to manage conflict and foster peace in your co-parenting journey.
 
